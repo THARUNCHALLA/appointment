@@ -1,0 +1,23 @@
+.list {
+  list-style: none;
+  border: solid 1px;
+  display: flex;
+  justify-content: space-around;
+  width: 280px;
+  margin: 10px;
+}
+.listHead {
+  font-family: 'bree serif';
+  font-size: 12px;
+  font-style: italic;
+}
+.btn2 {
+  border: none;
+  background-color: white;
+  margin-top: 10px;
+  align-self: flex-start;
+}
+.listimage {
+  height: 20px;
+  width: 20px;
+}
